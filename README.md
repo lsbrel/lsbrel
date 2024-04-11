@@ -85,14 +85,78 @@
         </a>
         <!-- MONGODB -->
     </p>
-    <br>
-    <h3 align="left">Frameworks:</h3>
+    <h3 align="left">Frameworks & Tools:</h3>
     <p align="left">
         <!-- BOOSTRAP -->
         <a href="https://getbootstrap.com" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40" />
         </a>
         <!-- BOOSTRAP -->
+        <!-- Tailwind CSS -->
+        <a href="https://tailwindcss.com" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
+        </a>
+        <!-- Tailwind CSS -->
+        <!-- Laravel -->
+        <a href="https://laravel.com" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40" />
+        </a>
+        <!-- Laravel -->
+        <!-- Express -->
+        <a href="https://expressjs.com" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width="40" height="40" />
+        </a>
+        <!-- Express -->
+        <!-- Vue.js -->
+        <a href="https://vuejs.org" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" />
+        </a>
+        <!-- Vue.js -->
+        <!-- Svelte -->
+        <a href="https://svelte.dev" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original-wordmark.svg" width="40" height="40" />
+        </a>
+        <!-- Svelte -->
+        <!-- React -->
+        <a href="https://reactjs.org" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40" />
+        </a>
+        <!-- React -->
+        <!-- Node.js -->
+        <a href="https://nodejs.org" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
+        </a>
+        <!-- Node.js -->
+        <!-- Spring Boot -->
+        <a href="https://spring.io/projects/spring-boot" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" height="40" />
+        </a>
+        <!-- Spring Boot -->
+        <!-- Flutter -->
+        <a href="https://flutter.dev" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original-wordmark.svg" width="40" height="40" />
+        </a>
+        <!-- Flutter -->
+        <!-- Nginx -->
+        <a href="https://nginx.org" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="40" height="40" />
+        </a>
+        <!-- Nginx -->
+        <!-- Postman -->
+        <a href="https://www.postman.com" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" width="40" height="40" />
+        </a>
+        <!-- Postman -->
+        <!-- Linux -->
+        <a href="https://www.linux.org" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" />
+        </a>
+        <!-- Linux -->
+        <!-- Docker -->
+        <a href="https://www.docker.com" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40" />
+        </a>
+        <!-- Docker -->
     </p>
     <br><br>
     <p>
