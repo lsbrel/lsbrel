@@ -134,12 +134,12 @@
         <!-- Spring Boot -->
         <!-- Flutter -->
         <a href="https://flutter.dev" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original-wordmark.svg" width="40" height="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40" />
         </a>
         <!-- Flutter -->
         <!-- Nginx -->
         <a href="https://nginx.org" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="40" height="40" />
         </a>
         <!-- Nginx -->
         <!-- Postman -->
