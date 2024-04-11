@@ -94,12 +94,12 @@
         <!-- BOOSTRAP -->
         <!-- Tailwind CSS -->
         <a href="https://tailwindcss.com" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />
         </a>
         <!-- Tailwind CSS -->
         <!-- Laravel -->
         <a href="https://laravel.com" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" height="40" />
         </a>
         <!-- Laravel -->
         <!-- Express -->
@@ -139,7 +139,7 @@
         <!-- Flutter -->
         <!-- Nginx -->
         <a href="https://nginx.org" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="40" height="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40" />
         </a>
         <!-- Nginx -->
         <!-- Postman -->
