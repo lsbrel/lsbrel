@@ -87,11 +87,11 @@
     </p>
     <h3 align="left">Frameworks & Tools:</h3>
     <p align="left">
-        <!-- BOOSTRAP -->
+        <!-- Bootstrap -->
         <a href="https://getbootstrap.com" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40" />
         </a>
-        <!-- BOOSTRAP -->
+        <!-- Bootstrap -->
         <!-- Tailwind CSS -->
         <a href="https://tailwindcss.com" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />
@@ -127,6 +127,16 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
         </a>
         <!-- Node.js -->
+        <!-- Django -->
+        <a href="https://www.djangoproject.com" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-original.svg" width="40" height="40" />
+        </a>
+        <!-- Django -->
+        <!-- Flask -->
+        <a href="https://flask.palletsprojects.com" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" height="40" />
+        </a>
+        <!-- Flask -->
         <!-- Spring Boot -->
         <a href="https://spring.io/projects/spring-boot" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" height="40" />
@@ -157,6 +167,11 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40" />
         </a>
         <!-- Docker -->
+        <!-- Git -->
+        <a href="https://git-scm.com" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40" height="40" />
+        </a>
+        <!-- Git -->
     </p>
     <br><br>
     <p>
