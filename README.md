@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas (lsbrel)</h1>
-<h3 align="center">Fullstack development</h3>
-
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=lsbrel&label=Profile%20views&color=7a053a&style=flat" alt="lsbrel" />
-</p>
+<h3 align="center">Fullstack Developer</h3>
 
 - 🔭 I’m currently working on **Sauvvitech Ltda. as Fullstack Developer**
 
