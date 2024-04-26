@@ -113,11 +113,6 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original-wordmark.svg" width="40" height="40" />
         </a>
         <!-- Svelte -->
-        <!-- React -->
-        <a href="https://reactjs.org" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40" />
-        </a>
-        <!-- React -->
         <!-- Node.js -->
         <a href="https://nodejs.org" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
