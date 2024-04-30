@@ -30,11 +30,6 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-line.svg" width="40" height="40"/>
         </a>
         <!-- RUST -->
-        <!-- JAVA -->
-        <a href="https://www.geeksforgeeks.org/java/" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/>
-        </a>
-        <!-- JAVA -->
         <!-- PYTHON -->
         <a href="https://www.python.org/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
@@ -128,11 +123,6 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" height="40" />
         </a>
         <!-- Flask -->
-        <!-- Spring Boot -->
-        <a href="https://spring.io/projects/spring-boot" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" height="40" />
-        </a>
-        <!-- Spring Boot -->
         <!-- Flutter -->
         <a href="https://flutter.dev" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40" />
